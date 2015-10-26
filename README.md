@@ -9,7 +9,7 @@ Instructions and project files for Interactive Media Development with Python &am
 
 ####Pre-requisite steps
 1. Download 64-bit Windows Python
-2. Run ```pip install requests``` in an elevated command prompt (make sure your PATH is calling Python 3 pip!)
+2. Run ```pip install requests requests-oauthlib``` in an elevated command prompt (make sure your PATH is calling Python 3 pip!)
 3. In TouchDesigner, in the menu bar, go to Edit -> Preferences.
 4. In the General settings, set the Python 64-bit Module Path to your site-packages folder. With Python 3.5, the default is ```C:/Program Files/Python 3.5/Lib/site-packages```
 5. Go to [Twitter's Developer page](https://apps.twitter.com/) and register an application
