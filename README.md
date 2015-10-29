@@ -21,7 +21,8 @@ The goal of this tutorial is to quickly use TouchDesigner and Python to:
 6. Generate a set of OAuth credentials for yourself
 
 
-##Attribution
+##Attribution & Useful Tools
 - [Kennith Reitz's Python Requests library](https://github.com/kennethreitz/requests)
 - [Curious Concept JSON Formatter & Validator](https://jsonformatter.curiousconcept.com/)
 - [Derivative TouchDesigner](http://derivative.ca)
+- [Twitter API Console](https://dev.twitter.com/rest/tools/console)
