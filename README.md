@@ -29,3 +29,6 @@ The goal of this tutorial is to quickly use TouchDesigner and Python to:
 - [Curious Concept JSON Formatter & Validator](https://jsonformatter.curiousconcept.com/)
 - [Derivative TouchDesigner](http://derivative.ca)
 - [Twitter API Console](https://dev.twitter.com/rest/tools/console)
+
+##Notes
+- To receivce sensor data on-site in real-time, bring a CAT5 cable to connect to our local switch. You will receive multicast OSC messages at 239.255.0.2 on port 10000.
